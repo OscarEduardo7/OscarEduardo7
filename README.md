@@ -1,4 +1,4 @@
-## Hey 👋, I'm Oscar!  
+## Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Oscar!  
   
 
 <a href="https://github.com/OscarEduardo7" target="_blank">
@@ -15,7 +15,9 @@
 <br/>  
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table>
+<tr>
+    <td valign="top" width="50%">
 
 - 🔭 I’m currently studying science and systems engineering  
   
@@ -23,10 +25,6 @@
 - 🌱 I’m currently learning React Native and Flutter  
 
 - 📫 How to reach me **oscarmazariegoss5@gmail.com**
-
-
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
